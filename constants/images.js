@@ -12,16 +12,16 @@ const user7 = require('../assets/images/user7.jpg')
 const user8 = require('../assets/images/user8.jpg')
 
 export default {
-    illustration,
-    cat,
-    down,
-    user1,
-    user2,
-    user3,
-    user4,
-    user5,
-    user6,
-    user7,
-    user8,
-    usFlag,
+  illustration,
+  cat,
+  down,
+  user1,
+  user2,
+  user3,
+  user4,
+  user5,
+  user6,
+  user7,
+  user8,
+  usFlag,
 }
